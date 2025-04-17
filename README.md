@@ -1,6 +1,6 @@
 # Apollo Rover Subgraph Check
 
-**IMPORTANT**: This action requires that you first install Rover into the PATH. To do so easily, please use the [`install-rover` GitHub Action](https://github.com/apollographql-gh-actions/install-rover) as shown below.
+**IMPORTANT**: This action requires that you first install Rover into the PATH. To do so, please use the [`install-rover` GitHub Action](https://github.com/apollographql-gh-actions/install-rover) as shown below.
 
 This is a GitHub Action to perform the [`rover subgraph check`](https://www.apollographql.com/docs/rover/commands/subgraphs#subgraph-check) command.
 
