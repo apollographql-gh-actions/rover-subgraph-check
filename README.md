@@ -25,7 +25,7 @@ This is a GitHub Action to perform the [`rover subgraph check`](https://www.apol
 _**Note**: You must first install the Rover CLI_
 
 ```yaml
-- uses: apollographql-gh-actions/install-rover-cli@v1
+- uses: apollographql-gh-actions/install-rover@v1
 - uses: apollographql-gh-actions/rover-subgraph-check@v1
   with:
     apollo-key: ${{ secrets.APOLLO_KEY }}
